@@ -2,7 +2,8 @@
 const nextConfig = {
   images:{
     domains:[
-      "links.papareact.com"
+      "links.papareact.com",
+      "lh3.googleusercontent.com"
     ]
   },
   experimental: {
